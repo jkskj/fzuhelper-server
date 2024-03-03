@@ -52,3 +52,9 @@ services:
     load-balance: false
     addr:
       - 127.0.0.1:10002
+
+  user:
+    name: user
+    load-balance: false
+    addr:
+      - 127.0.0.1:10003

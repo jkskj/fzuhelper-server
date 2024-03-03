@@ -18,6 +18,7 @@ const (
 
 	// db table name
 	TemplateServiceTableName = "template"
+	UserServiceTableName     = "user"
 
 	// redis
 	RedisDBEmptyRoom = 1
